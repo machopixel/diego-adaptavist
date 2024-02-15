@@ -24,7 +24,7 @@ gradlew.bat bootJar
 ### Step 3: Run CLI
 There is a shortcut to run the Jar, it will require to have Java as part of your path. To execute it, run the following command:
 ```bash
-gradlew.bat bootJar
+adaptavist-cli.bat
 ```
 
 ## Contributing:
