@@ -40,7 +40,7 @@ gradlew.bat test
 ```
 
 ## Debugging:
-The application is configured to output bugging messages into the logs folder. Please see [logback.xml](src/main/resources/logback.xml) for configuration.
+The application is configured to output different levels of debugging messages into the logs folder. Please see [logback.xml](src/main/resources/logback.xml) for further configuration.
 
 ## Commands Supported
 Currently, there is only one command supported.
